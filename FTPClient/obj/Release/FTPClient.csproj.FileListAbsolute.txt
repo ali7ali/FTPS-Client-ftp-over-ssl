@@ -1,0 +1,9 @@
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\bin\Release\FTPClient.exe.config
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\bin\Release\FTPClient.exe
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\bin\Release\FTPClient.pdb
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.FTPSClient.resources
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.Properties.Resources.resources
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.csproj.GenerateResource.Cache
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.exe
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.pdb
+C:\Users\Trouble_Maker\documents\visual studio 2017\Projects\FTPClient\FTPClient\obj\Release\FTPClient.csprojResolveAssemblyReference.cache
