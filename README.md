@@ -1,4 +1,4 @@
-# FTPS-Client-ftp-over-ssl Visual Studio 2017 - C# windows forms
+# FTPS-Client-ftp-over-ssl VS2017 - C# windows forms
 FTPS Client ftp over ssl
 
 ## Implementing IETF Standards:
